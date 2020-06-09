@@ -7,7 +7,7 @@ public class Account {
 		DecimalFormat moneyFormat = new DecimalFormat("'$'###,##0.00");
 
 		
-		
+		// Adding comment
 		public int setCustomerNumber(int customerNumber) {
 			this.customerNumber = customerNumber;
 			return customerNumber;
